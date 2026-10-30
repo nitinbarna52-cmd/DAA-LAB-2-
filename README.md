@@ -126,19 +126,6 @@ algorithm-performance-tool-RudraJuyal/
 The venv/ directory is excluded from GitHub using .gitignore.
 ⚙️ Installation
 
-1. Clone the Repository
-
-git clone https://github.com/Rudra1806yal/algorithm-performance-tool-RudraJuyal.git
-Move into the project directory:
-
-cd algorithm-performance-tool-RudraJuyal
-2. Create a Virtual Environment
-
-python -m venv venv
-Activate the environment on Windows:
-
-venv\Scripts\activate
-3. Install Required Libraries
 
 Install the dependencies using:
 
